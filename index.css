@@ -58,3 +58,7 @@ footer p {
 nav a:hover {
     color:yellow
 }
+
+span {
+    color: rgb(255, 225, 107);
+}
